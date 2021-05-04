@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# datasets
+test/
+train/
+validation/
+original-dataset/
+
 # C extensions
 *.so
 

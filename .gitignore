@@ -8,6 +8,7 @@ test/
 train/
 validation/
 original-dataset/
+saved_weights/
 saved_models/
 
 # C extensions
